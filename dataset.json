@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Tuscaloosa (Metro), Alabama metro, covering Tuscaloosa. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Tuscaloosa (Metro), Alabama, US",
+  "export_job_id": "d0c0450e-2e31-4a5b-be30-112b5eb8918d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 141391,
+  "location_name": "Tuscaloosa, AL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-tuscaloosa-metro-alabama-us-sample-141391",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/141391/beamstation_141391_restaurants-us-tuscaloosaal_SAMPLE_DIST.csv",
+  "sample_pct": 9.91,
+  "sample_records": 23,
+  "sample_sha256": "9b90c164aeb9cefe608f3066ffa86b7836b544a56ea7e34617a6bb91d11c8848",
+  "sample_size_bytes": 107176,
+  "total_records": 232,
+  "updated_at": "2026-03-31T16:41:29.505195+00:00"
+}
