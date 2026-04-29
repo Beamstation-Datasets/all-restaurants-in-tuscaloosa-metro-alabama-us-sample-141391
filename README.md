@@ -1,6 +1,6 @@
 # All Restaurants in Tuscaloosa (Metro), Alabama, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 54 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `141391` |
 | Location | Tuscaloosa, AL |
 | Category | Restaurants |
-| Full dataset size | 433 records |
-| Free sample size | 43 records (9.93%) |
-| Last export | 2026-04-21T19:18:16.556330+00:00 |
+| Full dataset size | 548 records |
+| Free sample size | 54 records (9.85%) |
+| Last export | 2026-04-28T20:44:44.894166+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tuscaloosa-metro-alabama-us-sample-141391/releases/download/sample-latest/beamstation_141391_restaurants-us-tuscaloosaal_SAMPLE_DIST.csv) |
 
 ## What is in this sample
